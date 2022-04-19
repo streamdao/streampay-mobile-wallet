@@ -1,13 +1,14 @@
 ## StreamPay Mobile Wallet
 
-A StreamPay Mobile Wallet in flutter. It's work in progress, expect bugs, use carefully.
+Non-custodial cross-platform wallet for Solana. 
 
-Non-custodial cross-platform wallet for Solana. Create a payment streams for stablecoins, and crypto currencies.
+A StreamPay Mobile Wallet in flutter. Create a payment streams for stablecoins, and cryptocurrencies. It's work in progress, expect bugs, use carefully. 
 
 Features:
 - Add New Wallet
 - Support USDC
 - QR code payment
+- Stream Payment Gateway & Web Plugin
 - Import wallets with it's seedphrase (devnet only for now)
 - Create new wallets (devnet only for now)
 
