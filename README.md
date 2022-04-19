@@ -6,7 +6,6 @@ Non-custodial cross-platform wallet for Solana. Create a payment streams for sta
 
 Features:
 - Add New Wallet
-- Support Stream Payment Gateway & Web Plugin (WordPress/WooCommerce)
 - Support USDC
 - QR code payment
 - Import wallets with it's seedphrase (devnet only for now)
@@ -34,6 +33,10 @@ flutter build ios
 
 - [ ] Handle `solana:` links, this way the wallet will be prompted to the user (experimental)
 - [ ] Add password encryption
+- [ ] Watch over any address you want
+- [ ] Display SPL Tokens and transactions
+- [ ] Import and create multiple wallets
+- [ ] Abilitity and support POS, Stream Payment Gateway & Web Plugin (WordPress/WooCommerce). Source Code: https://github.com/streamdao/woocommerce-payment-gateway
 - [ ] [Solana Pay](https://solana-pay-docs.vercel.app/core/wallet-integration) integration, implemented, but highly experimental
     - [ ] QR Reader (Support Solana Pay)
     - [ ] Ability NFC Readers and payment support
