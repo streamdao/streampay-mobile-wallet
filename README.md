@@ -36,7 +36,7 @@ flutter build ios
 
 - [ ] Handle `solana:` links, this way the wallet will be prompted to the user (experimental)
 - [ ] Add password encryption
-- [ ] Add staking features
+- [ ] Add staking and NFT features
 - [ ] Watch over any address you want
 - [ ] Display SPL Tokens and transactions
 - [ ] Import and create multiple wallets
