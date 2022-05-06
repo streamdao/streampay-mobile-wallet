@@ -44,7 +44,7 @@ flutter build ios
     - [ ] QR Reader (Support Solana Pay)
     - [ ] Ability NFC Readers and payment support
     - [ ] Point of Sale support (local store payment support)
-    - [ ] SOL, USDC and Stream Token Transactions (Experimental)
+    - [ ] SOL, USDC and Stream Token (STRM) Transactions (Experimental)
     - [ ] Cross-Chain Transactions (Experimental). Ex. Bitcoin Lightning Network
     - [ ] SPL Tokens Transactions (Experimental)
     - [ ] Support for Label, Message, Memo and Metadata
@@ -54,7 +54,7 @@ flutter build ios
         - [ ] Compare the new received transaction by finding it with the reference, just to make sure the amount is correct
 - [ ] Mainnet/betanet/custom net support
 - [ ] Ability to name and rename imported and created wallets, and watched addresses
-- [ ] Ability to make SOL, USDC, ETH, XRP, AVX, BTC, FYFY, Stream token "STRM" transactions (Multi-Currency support)
+- [ ] Ability to make SOL, USDC, ETH, XRP, AVX, BTC, Stream token "STRM" transactions (Multi-Currency support)
 - [ ] Ability to refresh the current SOL, USDC value by pulling down
 - [ ] Option to use another currency besides USD as equivalent currency
 - [ ] Display latest transactions 
